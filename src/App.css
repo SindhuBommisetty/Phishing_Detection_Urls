@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  font-size: 16px;
+}
+
+button {
+  font-size: 16px;
+  cursor: pointer;
+}
+
+h3 {
+  color: #333;
+}
+
+p {
+  font-size: 18px;
+  font-weight: bold;
+}
